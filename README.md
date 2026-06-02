@@ -3,7 +3,8 @@
 存档各种好用的工具、skills、等等
 
 ## AGENTS.md
-[AGENTS.md](./AGENTS.md)是我结合参考以及自己vibe coding的实操，而总结成的
+[AGENTS.md](./AGENTS.md)是我结合参考以及自己vibe coding的实操，而总结成的。
+
 参考：
 https://github.com/multica-ai/andrej-karpathy-skills
 https://boristane.com/blog/how-i-use-claude-code/#phase-1-research
