@@ -3,7 +3,10 @@
 存档各种好用的工具、skills、等等
 
 ## AGENTS.md
-[great-tools\AGENTS.md](./AGENTS.md)是我参考https://github.com/multica-ai/andrej-karpathy-skills和[我如何使用Claude代码 |鲍里斯·塔内](https://boristane.com/blog/how-i-use-claude-code/#phase-1-research)，以及结合自己vibe coding的实操，而总结成的
+[AGENTS.md](./AGENTS.md)是我结合参考以及自己vibe coding的实操，而总结成的
+参考：
+https://github.com/multica-ai/andrej-karpathy-skills
+https://boristane.com/blog/how-i-use-claude-code/#phase-1-research
 
 ## 工具列表
 
